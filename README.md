@@ -2,7 +2,7 @@
 - 👀 I’m interested in Angular and Python
 - 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on Angular and Python Full-Stack Project
-- 📫 How to reach me ! my website : https://manassantra.tech/
+- 📫 How to reach me ! my website : https://manassantra.online/
 
 <!---
 manassantra/manassantra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
