@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @manassantra
-- 👀 I’m interested in Angular [v10+] and .Net core [v6+] WEB & API.
-- 🌱 I’m currently learning Angular
+- 👀 I have knowledge in Angular [v10+] and .Net core [v6+] MVC/WEB-API.
+- 🌱 I’m currently learning and creating .Net core [v6+] Microservices 
+      with an MVC Web App. Github Repo :- https://github.com/manassantra/YummyFoods
 - 💞️ I’m looking to collaborate on Angular Full-Stack Project
-- 📫 How to reach me ! my website : https://manassantra.tech/
+- 📫 How to reach me ! my website :- https://manassantra.tech/
+- 📧 Connect Me : manassantra.contact@gmail.com
 
 <!---
 manassantra/manassantra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
