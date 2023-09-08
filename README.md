@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @manassantra
-- 👀 I have knowledge in Angular [v10+] and .Net core [v6+] MVC/WEB-API.
-- 🌱 I’m currently learning and creating .Net core [v6+] Microservices 
-      with an MVC Web App. Github Repo :- https://github.com/manassantra/YummyFoods
+- 👀 I have knowledge in Angular Framework [v12+] and NODE-JS REST-API.
+- 🌱 I’m currently learning and creating Node Js API Server with Angular App. Github Repo :- https://github.com/manassantra/productbecho
 - 💞️ I’m looking to collaborate on Angular Full-Stack Project
 - 📫 How to reach me ! my website :- https://manassantra.tech/
 - 📧 Connect Me : manassantra.contact@gmail.com
